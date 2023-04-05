@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VGpznCyQU1k2h53dwV6Z+713m7MTNBoZX/aELUs9nNGTDkfzamgFppe46d6Z5+UwgfnNDSlkb1g5aYQks2ntQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aksha\\source\\repos\\brownApp\\brownApp.iOS\\brownApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aksha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

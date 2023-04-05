@@ -1,0 +1,15 @@
+C:\Users\aksha\source\repos\brownApp\brownApp\bin\Debug\netstandard2.0\brownApp.deps.json
+C:\Users\aksha\source\repos\brownApp\brownApp\bin\Debug\netstandard2.0\brownApp.dll
+C:\Users\aksha\source\repos\brownApp\brownApp\bin\Debug\netstandard2.0\brownApp.pdb
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\brownApp.csproj.AssemblyReference.cache
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\brownApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\brownApp.AssemblyInfoInputs.cache
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\brownApp.AssemblyInfo.cs
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\brownApp.csproj.CoreCompileInputs.cache
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\brownApp.dll
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\refint\brownApp.dll
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\brownApp.pdb
+C:\Users\aksha\source\repos\brownApp\brownApp\obj\Debug\netstandard2.0\ref\brownApp.dll
