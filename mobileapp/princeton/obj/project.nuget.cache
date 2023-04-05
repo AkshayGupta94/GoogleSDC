@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4bUX2LhitdogI9kxTG4lTMjwso2DE8lxKU/FRRm5Jd2jjvPv2QK+3WcTglJAFU5YKkHp8eYSLk5oGEJvA9d89A==",
+  "success": true,
+  "projectFilePath": "D:\\hackathons\\princeton 2023\\princeton\\princeton\\princeton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aksha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

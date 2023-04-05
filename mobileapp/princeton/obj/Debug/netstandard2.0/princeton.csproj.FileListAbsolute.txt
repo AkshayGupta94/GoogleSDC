@@ -1,0 +1,16 @@
+D:\hackathons\princeton 2023\princeton\princeton\bin\Debug\netstandard2.0\princeton.deps.json
+D:\hackathons\princeton 2023\princeton\princeton\bin\Debug\netstandard2.0\princeton.dll
+D:\hackathons\princeton 2023\princeton\princeton\bin\Debug\netstandard2.0\princeton.pdb
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\princeton.csproj.AssemblyReference.cache
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\princeton.GeneratedMSBuildEditorConfig.editorconfig
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\princeton.AssemblyInfoInputs.cache
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\princeton.AssemblyInfo.cs
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\princeton.csproj.CoreCompileInputs.cache
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\XamlC.stamp
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\princeton.dll
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\refint\princeton.dll
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\princeton.pdb
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\ref\princeton.dll
+D:\hackathons\princeton 2023\princeton\princeton\obj\Debug\netstandard2.0\newmain.xaml.g.cs

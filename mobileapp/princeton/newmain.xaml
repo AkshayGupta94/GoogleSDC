@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="princeton.newmain">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="Details" >
+        <StackLayout>
+            <Frame Padding="32" >
+                <StackLayout Orientation="Vertical">
+                    <StackLayout >
+                        <Label Text="Mandy's Farm" HorizontalTextAlignment="Start" TextColor="Black" FontSize="24"/>
+                        <Label Text="Crop Type: Corn" HorizontalTextAlignment="Start" TextColor="Black" FontSize="20"/>
+                        <Label Text="Total NFTs: 50" HorizontalTextAlignment="Start" TextColor="Black" FontSize="18"/>
+                        <Label Text="Available NFTs: 30" HorizontalTextAlignment="Start" TextColor="Black" FontSize="20"/>
+
+
+                    </StackLayout>
+                   
+                </StackLayout>
+
+            </Frame>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Tracking" >
+        <StackLayout Padding="40">
+            <Label Text="CO2 Levels : 550 ppm" HorizontalTextAlignment="Start"  FontSize="24"/>
+            <Label Text="Methane Levels : 50 ppm" HorizontalTextAlignment="Start"  FontSize="24"/>
+            <Label Text="Current Albido : 0.7" HorizontalTextAlignment="Start"  FontSize="24"/>
+            <Label Text="Pest Report : No Pest found" HorizontalTextAlignment="Start"  FontSize="24"/>
+            <Label Text="Weed Report : No weed Found" HorizontalTextAlignment="Start"  FontSize="24"/>
+            <Label Text="Last inspection : April 2nd 2023" HorizontalTextAlignment="Start"  FontSize="24"/>
+
+        </StackLayout>
+    </ContentPage>
+
+</TabbedPage>

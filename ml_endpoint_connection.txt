@@ -1,0 +1,18 @@
+Pest Detetction Endpoint 
+
+predict_image_classification_sample(
+    project="594993555778",
+    endpoint_id="3613426217430024192",
+    location="us-central1",
+    filename="YOUR_IMAGE_FILE"
+)
+
+
+Weed Detection Endpoint 
+
+predict_image_classification_sample(
+    project="594993555778",
+    endpoint_id="1360500503837933568",
+    location="us-central1",
+    filename="YOUR_IMAGE_FILE"
+)

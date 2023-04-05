@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+    <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="princeton.MainPage">
+    <ContentPage Title="List My Farm">
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Disrupt the Agriculture!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Frame Padding="32">
+            <StackLayout>
+                    <Label Text="Area of farm :            10 Acres" HorizontalTextAlignment="Start" TextColor="Black" FontSize="20"/>
+                    <Label Text="Type of Crop :            Potatoes" HorizontalTextAlignment="Start" TextColor="Black" FontSize="20"/>
+                    <Label Text="Funding Needed :      $1000 " HorizontalTextAlignment="Start" TextColor="Black" FontSize="20"/>
+                    <Label Text="Number of NFTs :      10 Tokens" HorizontalTextAlignment="Start" TextColor="Black" FontSize="20"/>
+
+                    <Button Text="Generate Tokens" Clicked="Button_Clicked"/>
+
+
+
+                </StackLayout>
+
+        </Frame>
+    </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Buy Some NFTs">
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Disrupt the Agriculture!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <Frame Padding="32" >
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout >
+                        <Label Text="Mandy's Farm" HorizontalTextAlignment="Start" TextColor="Black" FontSize="24"/>
+                        <Label Text="Crop Type: Corn" HorizontalTextAlignment="Start" TextColor="Black" FontSize="20"/>
+                        <Label Text="Total NFTs: 50" HorizontalTextAlignment="Start" TextColor="Black" FontSize="18"/>
+                        <Label Text="Available NFTs: 30" HorizontalTextAlignment="Start" TextColor="Black" FontSize="20"/>
+
+
+                    </StackLayout>
+                    <StackLayout Margin="40,20,0,0">
+                    <Button Text="Invest" HeightRequest="100" Padding="30" Clicked="Button_Clicked_1"/>
+                    </StackLayout>
+                </StackLayout>
+
+            </Frame>
+            <Frame Padding="32">
+                <StackLayout Orientation="Horizontal">
+
+                    <StackLayout>
+                    <Label Text="Alex's Farm" HorizontalTextAlignment="Start" TextColor="Black" FontSize="24"/>
+                    <Label Text="Crop Type: Soybean" HorizontalTextAlignment="Start" TextColor="Black" FontSize="20"/>
+                    <Label Text="Total NFTs: 100" HorizontalTextAlignment="Start" TextColor="Black" FontSize="18"/>
+                    <Label Text="Available NFTs: 20" HorizontalTextAlignment="Start" TextColor="Black" FontSize="20"/>
+
+
+                </StackLayout>
+                    <StackLayout Margin="40,20,0,0">
+                        <Button Text="Invest" HeightRequest="100" Padding="30" Clicked="Button_Clicked_1"/>
+                    </StackLayout>
+                </StackLayout>
+
+            </Frame>
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>
